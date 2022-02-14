@@ -1,7 +1,7 @@
 # An Analysis of Video Game Genre Releases
 
 ## Motivation
-Since I was younger I have been an avid video game player, playing such games as Pokemon, Assassin's Creed, and Skyrim (to name a few). During my college career and adulthood, I have explored different avenues of how to enter the video game industry; using my electrical engineering degreee to design consoles and using my programming skills to design and code video games. To continue this trend, I wanted to use this project  as an opportunity to apply my data science skills in exploring a video game dataset.
+Since I was younger I have been an avid video game player, playing such games as Pokemon, Assassin's Creed, and Skyrim (to name a few). During my college career and adulthood, I have explored different avenues of how to enter the video game industry; using my electrical engineering degree to design consoles and using my programming skills to design and code video games. To continue this trend, I wanted to use this project  as an opportunity to apply my data science skills in exploring a video game dataset.
 
 ## Purpose
 The purpose of this project was to discover the trends of video game genres released over time and answer the following questions:
