@@ -9,7 +9,7 @@ The purpose of this project was to discover the trends of video game genres rele
 - Has this trend caused certain developers and publishers within the industry to change the genre of games they release?
 
 ## Data
-The primary data source was the video game database located on https://www.vgchartz.com. I utlized Pyhton's Requests library to scarpe the data. 
+The primary data source was the video game database located on https://www.vgchartz.com. I utilized Python's Requests library to scrape the data. 
 The key pieces of information for each video game were as follows:
 - Game Title
 - Publisher (Entity who funds the video game development. They also handle the marketing and release of the game to consumers.)
